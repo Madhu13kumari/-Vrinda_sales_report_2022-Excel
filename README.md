@@ -105,3 +105,4 @@ Changed background colour and remove gridlines.
 Now went to Vrinda sales report 2022 sheet and clicked on any chat went to pivot data analyze went into slicer option selected month channel and category, added slicer.
 Right clicked on any slicer and went into report connections selected all sheet and clicked ok.
 Did the same with another 2 slicers.
+https://github.com/Madhu13kumari/-Vrinda_sales_report_2022-Excel.wiki.git
