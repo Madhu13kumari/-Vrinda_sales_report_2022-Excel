@@ -1,6 +1,6 @@
 # -Vrinda_sales_report_2022-Excel
-#Downloaded dataset & open in excel.
-#Data cleaning
+Downloaded dataset & open in excel.
+Data cleaning
 Cross checked data that is there any duplicate or null value while using filter one by one.
 In Gender column data were not consistent it was ex: - men, m, women, w.
 Used filter selected data one by one replaced all M with men and all W with women.
